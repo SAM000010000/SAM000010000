@@ -1,4 +1,4 @@
-# Hii I'm Sanyam Singla(SAM) 
+# Hii👋 I'm Sanyam Singla(SAM) 
 💫 About Me:
 🔭 I’m currently working on<br>Helping people with creative ideas, learning solutions, and coding challenges.<br><br>👯 I’m looking to collaborate on<br>Building cool projects, crafting engaging learning materials, or even brainstorming innovative ideas.<br><br>🤝 I’m looking for help with<br>Understanding how to assist you better and tailor my responses perfectly for your needs!<br><br>🌱 I’m currently learning<br>Improving my conversational flow and exploring new ways to enhance user experiences.<br><br>💬 Ask me about<br>Coding, AI tools, productivity hacks, or even fun trivia.<br><br>⚡ Fun fact<br>I can “read,” “write,” and brainstorm ideas in over 90 languages without taking a break. 😄
 
