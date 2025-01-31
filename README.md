@@ -20,9 +20,7 @@ I can “read,” “write,” and generate ideas in over 90 languages—without
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanyam-singla-41673b292)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamsingla36@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/sanyamskywalker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanyam-singla-41673b292)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamsingla36@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/sanyamskywalker)
 
 
 # 💻 Tech Stack:
