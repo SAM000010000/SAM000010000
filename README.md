@@ -4,42 +4,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sanyam+Singla!+(SAM);" />
 </h1>
 
-## 💫 **About Me**  
+## 💫 **About Me :**  
 
-### 🔭 **What I’m Currently Working On**  
-🚀 Helping individuals bring their **creative ideas to life**!  
-🎯 Developing **effective learning solutions** and tackling **coding challenges**.  
+🔭 **I’m currently working on**  
+Helping individuals bring their creative ideas to life, developing effective learning solutions, and tackling coding challenges.  
 
----
+👯 **I’m looking to collaborate on**  
+Innovative projects, engaging educational content, and brainstorming groundbreaking ideas.  
 
-### 👯 **Looking to Collaborate On**  
-🤖 **Innovative projects** that push boundaries.  
-📚 **Engaging educational content** to make learning fun and effective.  
-💡 **Brainstorming groundbreaking ideas**—let’s create something amazing together!  
+🤝 **I’m looking for help with**  
+Understanding your needs better to provide tailored and precise assistance.  
 
----
+🌱 **I’m currently learning**  
+Enhancing conversational flow and discovering new ways to improve user experiences.  
 
-### 🤝 **How You Can Help Me**  
-🛠️ Help me understand **your needs better** so I can provide **tailored and precise assistance**.  
+💬 **Ask me about**  
+Coding, AI tools, productivity strategies, or even interesting trivia.  
 
----
-
-### 🌱 **What I’m Currently Learning**  
-📖 Enhancing **conversational flow** to make interactions smoother.  
-✨ Discovering new ways to **improve user experiences**.  
-
----
-
-### 💬 **Ask Me About**  
-💻 **Coding** tips and tricks.  
-🤖 **AI tools** and how to leverage them.  
-⏳ **Productivity strategies** to maximize efficiency.  
-🎉 **Interesting trivia**—because learning should be fun!  
-
----
-
-### ⚡ **Fun Fact**  
-🌍 I can “read,” “write,” and generate ideas in **over 90 languages**—**without taking a break**! 😄  
+⚡ **Fun fact**  
+I can “read,” “write,” and generate ideas in over 90 languages—without taking a break! 😄
 
 
 ## 🌐 Socials:
