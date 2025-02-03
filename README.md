@@ -39,4 +39,10 @@ I can “read,” “write,” and generate ideas in over 90 languages—without
 ---
 [![](https://visitcount.itsvg.in/api?id=SAM10101010&icon=0&color=4)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAM10101010/SAM10101010/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAM10101010/SAM10101010/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SAM10101010/SAM10101010/output/github-snake.svg" />
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
