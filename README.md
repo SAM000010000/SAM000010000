@@ -58,8 +58,10 @@ I can “read,” “write,” and generate ideas in over 90 languages—without
 ![Krita](https://img.shields.io/badge/-Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SAM10101010&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAM10101010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAM10101010&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAM10101010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 
 ### 🔝 Top Contributed Repo
